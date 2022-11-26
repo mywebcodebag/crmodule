@@ -1,0 +1,14 @@
+<svg id="long_arrow" xmlns="http://www.w3.org/2000/svg" width="261" height="48.4" viewBox="0 0 261 48.4">
+  <g id="Group_1" data-name="Group 1" transform="translate(0 18.3)">
+    <path id="Path_12" data-name="Path 12" d="M58.8,55.9V44.1H31.2V55.9H58.8Z" transform="translate(190.5 -44.1)" fill="#ea151d"/>
+    <path id="Path_13" data-name="Path 13" d="M95.7,55.9V44.1H68.1V55.9H95.7Z" transform="translate(116.7 -44.1)" fill="#ea151d"/>
+    <path id="Path_14" data-name="Path 14" d="M132.7,55.9V44.1H105.1V55.9h27.6Z" transform="translate(42.7 -44.1)" fill="#ea151d"/>
+    <path id="Path_15" data-name="Path 15" d="M169.6,55.9V44.1H142V55.9h27.6Z" transform="translate(-31.1 -44.1)" fill="#ea151d"/>
+    <path id="Path_16" data-name="Path 16" d="M206.6,55.9V44.1H179V55.9h27.6Z" transform="translate(-105.1 -44.1)" fill="#ea151d"/>
+    <path id="Path_17" data-name="Path 17" d="M243.5,55.9V44.1H215.9V55.9h27.6Z" transform="translate(-178.9 -44.1)" fill="#ea151d"/>
+    <path id="Path_18" data-name="Path 18" d="M280.5,55.9V44.1H252.9V55.9h27.6Z" transform="translate(-252.9 -44.1)" fill="#ea151d"/>
+  </g>
+  <g id="Group_2" data-name="Group 2" transform="translate(230.4 0)">
+    <path id="Path_19" data-name="Path 19" d="M19.7,68.5,26,74.2,50.1,50h0L25.9,25.8l-6.4,6.1L37.8,50Z" transform="translate(-19.5 -25.8)" fill="#ea151d"/>
+  </g>
+</svg>

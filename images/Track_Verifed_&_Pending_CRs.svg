@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.2" height="93.3" viewBox="0 0 73.2 93.3">
+  <g id="Track_Verifed___Pending_CRs" data-name="Track_Verifed_&amp;_Pending_CRs" transform="translate(-12.1 -2.1)">
+    <path id="Path_1" data-name="Path 1" d="M78,15H67V8.6H57.2a8.792,8.792,0,0,0-8.5-6.5,8.881,8.881,0,0,0-8.5,6.5H30.4V15h-11a7.341,7.341,0,0,0-7.3,7.3V88.1a7.341,7.341,0,0,0,7.3,7.3H78a7.341,7.341,0,0,0,7.3-7.3V22.3A7.277,7.277,0,0,0,78,15ZM32,10.1h9.9V8.7a7.294,7.294,0,0,1,6.9-5.1,7.2,7.2,0,0,1,6.9,5.1v1.4h9.9v13H32Zm51.8,78A5.8,5.8,0,0,1,78,93.9H19.5a5.8,5.8,0,0,1-5.8-5.8V22.3a5.8,5.8,0,0,1,5.8-5.8h11v8.2H67V16.5H78a5.8,5.8,0,0,1,5.8,5.8Z" fill="#0a2a63"/>
+    <path id="Path_2" data-name="Path 2" d="M39.2,34.5H22.9V49.6H39.2V34.5ZM37.7,48.2H24.4V36H37.7Z" fill="#0a2a63"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="28.8" height="1.5" transform="translate(45.1 41.4)" fill="#0a2a63"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="28.8" height="1.5" transform="translate(45.1 60.2)" fill="#0a2a63"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="28.8" height="1.5" transform="translate(45.1 78.6)" fill="#0a2a63"/>
+    <path id="Path_3" data-name="Path 3" d="M29.3,62.4l-4.6-4.6-1.1,1,5.6,5.7,10.2-9.3-1-1.1Z" fill="#0a2a63"/>
+    <path id="Path_4" data-name="Path 4" d="M29.3,81.2l-4.6-4.6-1.1,1,5.6,5.7L39.4,74l-1-1.1Z" fill="#0a2a63"/>
+  </g>
+</svg>
